@@ -30,7 +30,8 @@ O **Tradutor Unker** é um site responsivo e funcional que permite a tradução 
 ### 🛠️ Passos
 ```sh
 # Clone este repositório
-git clone https://github.com/seu-usuario/tradutor-unker.git
+git clone https://github.com/seu-usuario/Translator-using-ReactJs
+.git
 
 # Acesse a pasta do projeto
 cd tradutor-unker
@@ -87,7 +88,8 @@ The **Unker Translator** is a responsive and functional website that allows text
 ### 🛠️ Steps
 ```sh
 # Clone this repository
-git clone https://github.com/seu-usuario/tradutor-unker.git
+git clone https://github.com/seu-usuario/Translator-using-ReactJs
+.git
 
 # Navigate to the project folder
 cd tradutor-unker
